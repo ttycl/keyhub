@@ -1,0 +1,2 @@
+class KeyhubError(Exception):
+    pass
